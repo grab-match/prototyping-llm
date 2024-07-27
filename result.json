@@ -1,0 +1,74 @@
+{
+    "location": "Jakarta",
+    "start": "12:00",
+    "end": "20.00",
+    "duration": 480,
+    "description": "This itinerary starts with a morning coffee at Osteria Gia Plaza Indonesia, followed by a visit to Suropati Park for some fresh air and scenic views. After lunch, you can head to Menteng Park for more outdoor activities or simply enjoy the atmosphere. Finally, end your date with dinner at Osteria Gia.",
+    "itinerary": [
+        {
+            "data_id": "0x2e69f416e4052ef9:0x8b3359cdbfba5a81",
+            "title": "Suropati Park Visit",
+            "category": "City park",
+            "location": "Suropati Park",
+            "address": "Jl. Taman Suropati No.5, RT.5/RW.5, Menteng, Central Jakarta City, Jakarta 10310",
+            "latitude": -6.199387,
+            "longitude": 106.8326333,
+            "duration": 120,
+            "start": "12:00",
+            "end": "14:00",
+            "time": "12:00 -  14:00"
+        },
+        {
+            "data_id": "0x2e69f5a64ca07a41:0xe0b15216c2b89678",
+            "title": "Lunch Break",
+            "category": "Restaurant",
+            "location": "Osteria Gia Plaza Indonesia",
+            "address": "Jl. M.H. Thamrin No.30, RT.9/RW.5, Gondangdia, Menteng, Central Jakarta City, Jakarta 10350",
+            "latitude": -6.193935499999999,
+            "longitude": 106.8226376,
+            "duration": 150,
+            "start": "14:00",
+            "end": "16:30",
+            "time": "14:00 - 16:30",
+            "description": ""
+        },
+        {
+            "data_id": "0x2e69f422b00ee429:0xa28d5c5a0efbe12e",
+            "title": "Menteng Park Visit",
+            "category": "City park",
+            "location": "Menteng Park",
+            "address": "Jl. HOS. Cokroaminoto, RT.3/RW.5, Menteng, Central Jakarta City, Jakarta 10310",
+            "latitude": -6.1964087,
+            "longitude": 106.8293106,
+            "duration": 90,
+            "start": "16:30",
+            "end": "18:00",
+            "time": "16:30 - 18:00",
+            "description": ""
+        },
+        {
+            "data_id": "0x2e69f421ba836281:0x652a20dcf5a173a5",
+            "title": "Dinner Time",
+            "category": "Restaurant",
+            "location": "Social House",
+            "address": "Jalan M.H. Thamrin No. 1, RT.1/RW.5 No.1, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+            "longtitude": 106.8226084,
+            "latitude": -6.1969077,
+            "duration": 60,
+            "start": "18:00",
+            "end": "19:00",
+            "time": "18:00 PM - 19:00 PM",
+            "description": ""
+        },
+        {
+            "data_id": null,
+            "title": "Headed home",
+            "category": "Sightseeing",
+            "duration": 60,
+            "start": "19:00",
+            "end": "20:00",
+            "time": "19.00 - 20.00",
+            "description": ""
+        }
+    ]
+}

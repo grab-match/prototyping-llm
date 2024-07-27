@@ -1,0 +1,123 @@
+[
+  {
+    "data_id": "0x2e69f421ba836281:0x652a20dcf5a173a5",
+    "title": "Social House",
+    "category": "Restaurant",
+    "address": "Jalan M.H. Thamrin No. 1, RT.1/RW.5 No.1, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+    "longtitude": 106.8226084,
+    "latitude": -6.1969077,
+    "facilities": {
+      "service_options": "Outdoor seating,No-contact delivery,Delivery,Takeaway,Dine-in",
+      "highlights": "Great cocktails,Live music",
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance,Wheelchair-accessible seating,Wheelchair-accessible toilet",
+      "offerings": "Alcohol,Beer,Cocktails,Coffee,Halal food,Healthy options,Late-night food,Organic dishes,Quick bite,Spirits,Vegetarian options,Wine",
+      "dining_options": "Breakfast,Brunch,Lunch,Dinner,Dessert,Seating",
+      "amenities": "Bar on site,Toilets",
+      "atmosphere": "Casual,Cosy,Upmarket",
+      "crowd": "Family friendly,Groups",
+      "planning": "Reservations required,Accepts reservations",
+      "payments": "Credit cards,Debit cards",
+      "children": "Good for kids,High chairs",
+      "parking": "Paid parking lot"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": [
+        "11.00 am–12.00 am"
+      ]
+    },
+    "review_rating": 4.6,
+    "description": "Tempat makan dengan nuansa asri seperti di teras menyajikan 300 wine pilihan dan international menu."
+  },
+  {
+    "data_id": "0x2e69f416e4052ef9:0x8b3359cdbfba5a81",
+    "title": "Suropati Park",
+    "category": "City park",
+    "address": "Jl. Taman Suropati No.5, RT.5/RW.5, Menteng, Central Jakarta City, Jakarta 10310",
+    "longtitude": 106.8326333,
+    "latitude": -6.199387,
+    "facilities": {
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance",
+      "amenities": "Public toilet",
+      "children": "Good for kids",
+      "pets": "Dogs allowed"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": [
+        "6.30 am–5.00 pm"
+      ]
+    },
+    "review_rating": 4.6,
+    "description": "Urban park created in 1920 featuring a series of sculptures & fountains, plus paved paths & benches."
+  },
+  {
+    "data_id": "0x2e69f422b00ee429:0xa28d5c5a0efbe12e",
+    "title": "Menteng Park",
+    "category": "City park",
+    "address": "Jl. HOS. Cokroaminoto, RT.3/RW.5, Menteng, Central Jakarta City, Jakarta 10310",
+    "longtitude": 106.8293106,
+    "latitude": -6.1964087,
+    "facilities": {
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance",
+      "amenities": "Basketball court,Public toilet,Skateboarding area,Slides,Swings,Volleyball court",
+      "children": "Good for kids,Playground",
+      "pets": "Dogs allowed"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "Always"
+    },
+    "review_rating": 4.5,
+    "description": "This 30-hectare public park features gardens, a playground, sport courts & absorption wells."
+  },
+  {
+    "data_id": "0x2e69f5a64ca07a41:0xe0b15216c2b89678",
+    "title": "Osteria Gia Plaza Indonesia",
+    "category": "Italian restaurant",
+    "address": "Jl. M.H. Thamrin No.30, RT.9/RW.5, Gondangdia, Menteng, Central Jakarta City, Jakarta 10350",
+    "longtitude": 106.8226376,
+    "latitude": -6.193935499999999,
+    "facilities": {
+      "service_options": "Outdoor seating,No-contact delivery,Delivery,Takeaway,Dine-in",
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance,Wheelchair-accessible seating",
+      "offerings": "Alcohol,Beer,Cocktails,Coffee,Halal food,Spirits,Wine",
+      "dining_options": "Breakfast,Brunch,Lunch,Dinner,Catering,Dessert,Seating",
+      "amenities": "Bar on site,Toilets",
+      "atmosphere": "Casual,Cosy,Upmarket",
+      "crowd": "Groups",
+      "planning": "Accepts reservations",
+      "payments": "Credit cards,Debit cards",
+      "children": "Good for kids,High chairs",
+      "parking": "Paid parking lot,Valet parking"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": [
+        "11.00 am–10.00 pm"
+      ]
+    },
+    "review_rating": 4.8,
+    "description": ""
+  },
+  {
+    "data_id": "0x514107ef6417075:0xdf97f027bb9bcd42",
+    "title": "Situ Lembang Park",
+    "category": "City park",
+    "address": "Jl. Lembang Terusan No.D-59, RT.6/RW.5, Menteng, Central Jakarta City, Jakarta 12910",
+    "longtitude": 106.8343448,
+    "latitude": -6.1973783,
+    "facilities": {
+      "accessibility": "Wheelchair-accessible entrance",
+      "amenities": "Public toilet,Slides,Swings",
+      "children": "Good for kids,Playground",
+      "pets": "Dogs allowed"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "Always"
+    },
+    "review_rating": 4.6,
+    "description": "This quaint green space around a fishing pond has shade trees, paved paths & kids' play equipment."
+  }
+]

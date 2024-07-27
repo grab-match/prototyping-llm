@@ -1,0 +1,1992 @@
+[
+  {
+    "input_id": "058e6ced-5195-4881-9e21-b42700af7b30",
+    "link": "https://www.google.com/maps/place/Social+House/data=!4m7!3m6!1s0x2e69f421ba836281:0x652a20dcf5a173a5!8m2!3d-6.1969077!4d106.8226084!16s%2Fg%2F1hf3_fq3w!19sChIJgWKDuiH0aS4RpXOh9dwgKmU?authuser=0\u0026hl=en\u0026rclk=1",
+    "cid": "7289675080238461861",
+    "title": "Social House",
+    "categories": [
+      "Restaurant",
+      "Lounge",
+      "Wine bar",
+      "Wine store"
+    ],
+    "category": "Restaurant",
+    "address": "Jalan M.H. Thamrin No. 1, RT.1/RW.5 No.1, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+    "open_hours": {
+      "Friday": [
+        "11.00 am–1.00 am"
+      ],
+      "Monday": [
+        "11.00 am–11.00 pm"
+      ],
+      "Saturday": [
+        "11.00 am–1.00 am"
+      ],
+      "Sunday": [
+        "11.00 am–12.00 am"
+      ],
+      "Thursday": [
+        "11.00 am–11.00 pm"
+      ],
+      "Tuesday": [
+        "11.00 am–11.00 pm"
+      ],
+      "Wednesday": [
+        "11.00 am–11.00 pm"
+      ]
+    },
+    "popular_times": {
+      "Friday": {
+        "0": 49,
+        "10": 0,
+        "11": 32,
+        "12": 47,
+        "13": 58,
+        "14": 64,
+        "15": 65,
+        "16": 69,
+        "17": 76,
+        "18": 89,
+        "19": 95,
+        "20": 96,
+        "21": 92,
+        "22": 87,
+        "23": 73,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Monday": {
+        "10": 0,
+        "11": 31,
+        "12": 43,
+        "13": 49,
+        "14": 51,
+        "15": 47,
+        "16": 49,
+        "17": 48,
+        "18": 52,
+        "19": 46,
+        "20": 36,
+        "21": 25,
+        "22": 20,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Saturday": {
+        "0": 34,
+        "10": 0,
+        "11": 27,
+        "12": 39,
+        "13": 47,
+        "14": 50,
+        "15": 59,
+        "16": 68,
+        "17": 84,
+        "18": 95,
+        "19": 100,
+        "20": 95,
+        "21": 86,
+        "22": 72,
+        "23": 55,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Sunday": {
+        "10": 0,
+        "11": 32,
+        "12": 49,
+        "13": 63,
+        "14": 69,
+        "15": 76,
+        "16": 76,
+        "17": 73,
+        "18": 68,
+        "19": 58,
+        "20": 48,
+        "21": 38,
+        "22": 24,
+        "23": 14,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Thursday": {
+        "10": 0,
+        "11": 29,
+        "12": 45,
+        "13": 57,
+        "14": 60,
+        "15": 65,
+        "16": 69,
+        "17": 79,
+        "18": 83,
+        "19": 79,
+        "20": 65,
+        "21": 46,
+        "22": 28,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Tuesday": {
+        "10": 0,
+        "11": 32,
+        "12": 47,
+        "13": 58,
+        "14": 60,
+        "15": 60,
+        "16": 61,
+        "17": 68,
+        "18": 68,
+        "19": 66,
+        "20": 52,
+        "21": 41,
+        "22": 28,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Wednesday": {
+        "10": 0,
+        "11": 32,
+        "12": 40,
+        "13": 48,
+        "14": 50,
+        "15": 49,
+        "16": 53,
+        "17": 60,
+        "18": 67,
+        "19": 73,
+        "20": 73,
+        "21": 61,
+        "22": 39,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      }
+    },
+    "web_site": "https://www.ismaya.com/eat-drink/social-house",
+    "phone": "(021) 23581818",
+    "plus_code": "RR3F+62 Menteng, Central Jakarta City, Jakarta",
+    "review_count": 3783,
+    "review_rating": 4.6,
+    "reviews_per_rating": {
+      "1": 50,
+      "2": 44,
+      "3": 151,
+      "4": 816,
+      "5": 2722
+    },
+    "latitude": -6.1969077,
+    "longtitude": 106.8226084,
+    "status": "Open ⋅ Closes 1.00 am",
+    "description": "Tempat makan dengan nuansa asri seperti di teras menyajikan 300 wine pilihan dan international menu.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgWKDuiH0aS4RpXOh9dwgKmU\u0026q=Social+House\u0026authuser=0\u0026hl=en\u0026gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqoWykwK77ZXQ9Rl6X6ILC3QmnokzFEBcXNOai=w408-h271-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": "$$$",
+    "data_id": "0x2e69f421ba836281:0x652a20dcf5a173a5",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMqoWykwK77ZXQ9Rl6X6ILC3QmnokzFEBcXNOai=w447-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN94NhBeAEnwRN5owrQdPZz9gQws4UFX8LFYNLg=w224-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMuX1lx4uhquVzgIS4EdE--pdeMXJ1wwQYVW_Xa=w224-h398-k-no"
+      },
+      {
+        "title": "Menu",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN0DikFH27HQWENxQkfOZX67bCG1sBLKl62aiMw=w224-h320-k-no"
+      },
+      {
+        "title": "Food \u0026 drink",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN9xzthNG0K3NSSweE04aUzXXp9gwzXeKoQ36As=w224-h335-k-no"
+      },
+      {
+        "title": "Vibe",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPjM93zJy5oqtyMLNXjvvqC5oeKNIuI1YcEiD3R=w529-h298-k-no"
+      },
+      {
+        "title": "Pizza",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPU6Tb4a11o1KESPdmMeIXLNBN9jBEi0MGdf-47=w224-h298-k-no"
+      },
+      {
+        "title": "Chicken marsala",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNX50VhhltqlNujaD0ITnpL8xvTJHHARTOhKBVt=w662-h298-k-no"
+      },
+      {
+        "title": "Cake",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMhcW8laKv3Y-bWQobZxbMUafLdz2EY3AVRuzoW=w224-h336-k-no"
+      },
+      {
+        "title": "Nachos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOLEJIDnONXEANlOW-9npIcOA4953KztR6efDyJ=w232-h298-k-no"
+      },
+      {
+        "title": "Sirloin steak",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN2uyhW7Eg87ZwVgAnlGjHhoBi1yyLAAelA444j=w397-h298-k-no"
+      },
+      {
+        "title": "Caesar salad",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOp7NZwM6M6PkKhpr3aXA-9JPLn6uKwsyaEhj46=w224-h298-k-no"
+      },
+      {
+        "title": "Iced tea",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNAzFO-thsKz7FZK1HyFV7EavmRop73x013inHI=w224-h298-k-no"
+      },
+      {
+        "title": "By owner",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOt8CZpPQPNNOM4Y3Gc5ENvjOBNzS6eu3xi4maE=w224-h336-k-no"
+      },
+      {
+        "title": "Street View \u0026 360°",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pM40bGoTLNJX6xtbDVIfYA\u0026cb_client=maps_sv.tactile.gps\u0026w=224\u0026h=298\u0026yaw=44.102905\u0026pitch=0\u0026thumbfov=100"
+      }
+    ],
+    "reservations": [
+      {
+        "link": "https://bit.ly/2JiequP",
+        "source": "bit.ly"
+      },
+      {
+        "link": "https://www.tablecheck.com/social-house/reserve?utm_source=google",
+        "source": "tablecheck.com"
+      }
+    ],
+    "order_online": [
+      {
+        "link": "https://order.ismaya.com/ISM/SHGI/order?salesMode=3375ddf869c889e1bb41735f4cfc2eef3939653133666436656234376663373731303363623163363166363162346461313863643139616633663634656161303435353564356137633935373066323287aaaab06d7e75d9bd2d04ad374888831b0deb25a63ba330dc2bc7dcf1411273",
+        "source": "ismaya.com"
+      }
+    ],
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "102963604095214120339",
+      "name": "Social House (Owner)",
+      "link": "https://www.google.com/maps/contrib/102963604095214120339"
+    },
+    "complete_address": {
+      "borough": "Menteng",
+      "street": "Jalan M.H. Thamrin No. 1, RT.1/RW.5 No.1, RT.1/RW.5",
+      "city": "Central Jakarta City",
+      "postal_code": "10310",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Outdoor seating",
+            "enabled": true
+          },
+          {
+            "name": "No-contact delivery",
+            "enabled": true
+          },
+          {
+            "name": "Delivery",
+            "enabled": true
+          },
+          {
+            "name": "Takeaway",
+            "enabled": true
+          },
+          {
+            "name": "Dine-in",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "highlights",
+        "name": "Highlights",
+        "options": [
+          {
+            "name": "Great cocktails",
+            "enabled": true
+          },
+          {
+            "name": "Live music",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible seating",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible toilet",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "offerings",
+        "name": "Offerings",
+        "options": [
+          {
+            "name": "Alcohol",
+            "enabled": true
+          },
+          {
+            "name": "Beer",
+            "enabled": true
+          },
+          {
+            "name": "Cocktails",
+            "enabled": true
+          },
+          {
+            "name": "Coffee",
+            "enabled": true
+          },
+          {
+            "name": "Halal food",
+            "enabled": true
+          },
+          {
+            "name": "Healthy options",
+            "enabled": true
+          },
+          {
+            "name": "Late-night food",
+            "enabled": true
+          },
+          {
+            "name": "Organic dishes",
+            "enabled": true
+          },
+          {
+            "name": "Quick bite",
+            "enabled": true
+          },
+          {
+            "name": "Spirits",
+            "enabled": true
+          },
+          {
+            "name": "Vegetarian options",
+            "enabled": true
+          },
+          {
+            "name": "Wine",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "dining_options",
+        "name": "Dining options",
+        "options": [
+          {
+            "name": "Breakfast",
+            "enabled": true
+          },
+          {
+            "name": "Brunch",
+            "enabled": true
+          },
+          {
+            "name": "Lunch",
+            "enabled": true
+          },
+          {
+            "name": "Dinner",
+            "enabled": true
+          },
+          {
+            "name": "Dessert",
+            "enabled": true
+          },
+          {
+            "name": "Seating",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Bar on site",
+            "enabled": true
+          },
+          {
+            "name": "Toilets",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "atmosphere",
+        "name": "Atmosphere",
+        "options": [
+          {
+            "name": "Casual",
+            "enabled": true
+          },
+          {
+            "name": "Cosy",
+            "enabled": true
+          },
+          {
+            "name": "Upmarket",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "crowd",
+        "name": "Crowd",
+        "options": [
+          {
+            "name": "Family friendly",
+            "enabled": true
+          },
+          {
+            "name": "Groups",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "name": "Planning",
+        "options": [
+          {
+            "name": "Reservations required",
+            "enabled": true
+          },
+          {
+            "name": "Accepts reservations",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Credit cards",
+            "enabled": true
+          },
+          {
+            "name": "Debit cards",
+            "enabled": true
+          },
+          {
+            "name": "Credit cards",
+            "enabled": false
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          },
+          {
+            "name": "High chairs",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "options": [
+          {
+            "name": "Paid parking lot",
+            "enabled": true
+          },
+          {
+            "name": "Parking",
+            "enabled": false
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null
+  },
+  {
+    "input_id": "213cc59f-6ea6-46e0-b43e-709509180ce5",
+    "link": "https://www.google.com/maps/place/Suropati+Park/data=!4m7!3m6!1s0x2e69f416e4052ef9:0x8b3359cdbfba5a81!8m2!3d-6.199387!4d106.8326333!16s%2Fg%2F120z1syk!19sChIJ-S4F5Bb0aS4RgVq6v81ZM4s?authuser=0\u0026hl=en\u0026rclk=1",
+    "cid": "10030459535304055425",
+    "title": "Suropati Park",
+    "categories": [
+      "City park",
+      "Park",
+      "Tourist attraction"
+    ],
+    "category": "City park",
+    "address": "Jl. Taman Suropati No.5, RT.5/RW.5, Menteng, Central Jakarta City, Jakarta 10310",
+    "open_hours": {
+      "Friday": [
+        "6.30 am–5.00 pm"
+      ],
+      "Monday": [
+        "6.30 am–5.00 pm"
+      ],
+      "Saturday": [
+        "6.30 am–5.00 pm"
+      ],
+      "Sunday": [
+        "6.30 am–5.00 pm"
+      ],
+      "Thursday": [
+        "6.30 am–5.00 pm"
+      ],
+      "Tuesday": [
+        "6.30 am–5.00 pm"
+      ],
+      "Wednesday": [
+        "6.30 am–5.00 pm"
+      ]
+    },
+    "popular_times": {},
+    "web_site": "",
+    "phone": "",
+    "plus_code": "RR2M+63 Menteng, Central Jakarta City, Jakarta",
+    "review_count": 21414,
+    "review_rating": 4.6,
+    "reviews_per_rating": {
+      "1": 260,
+      "2": 207,
+      "3": 1081,
+      "4": 3857,
+      "5": 16009
+    },
+    "latitude": -6.199387,
+    "longtitude": 106.8326333,
+    "status": "Open ⋅ Closes 5.00 pm",
+    "description": "Urban park created in 1920 featuring a series of sculptures \u0026 fountains, plus paved paths \u0026 benches.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-S4F5Bb0aS4RgVq6v81ZM4s\u0026q=Suropati+Park\u0026authuser=0\u0026hl=en\u0026gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8ZzWjOF-YHlDdZwpzP6f0SKK284XIJqL6aKDH=w408-h306-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": "",
+    "data_id": "0x2e69f416e4052ef9:0x8b3359cdbfba5a81",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP8ZzWjOF-YHlDdZwpzP6f0SKK284XIJqL6aKDH=w397-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNRmybP5KIZPRN4TOmL-w3aNU-xfgonkfv0yQWA=w224-h398-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPU5Eb2lhh7QWlzLLEMccUXq6qbCFiUVOscFHgo=w529-h298-k-no"
+      },
+      {
+        "title": "Property Maps",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPKGZ0Af9hzKZMjJTj4Wc1FrM6JMlAnttjKIdD5=w224-h298-k-no"
+      },
+      {
+        "title": "Park",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMTLkx2Qn5xsVx0Y6BJokBrZOgYC6w_Qjj-0sQN=w397-h298-k-no"
+      },
+      {
+        "title": "Mushola Babah Alun",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMrcW3kvbQmGT3x5pR9Zy5s_oRpYXyMfPz70BBt=w224-h298-k-no"
+      },
+      {
+        "title": "Street View \u0026 360°",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMROsVJ2XQOjlla7_mEzEc_DYL5Nm61hsdRML2H=w224-h298-k-no-pi-0-ya3.0000103-ro-0-fo100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "110151920591604785801",
+      "name": "Suropati Park (Owner)",
+      "link": "https://www.google.com/maps/contrib/110151920591604785801"
+    },
+    "complete_address": {
+      "borough": "Menteng",
+      "street": "Jl. Taman Suropati No.5, RT.5/RW.5",
+      "city": "Central Jakarta City",
+      "postal_code": "10310",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Public toilet",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "pets",
+        "name": "Pets",
+        "options": [
+          {
+            "name": "Dogs allowed",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null
+  },
+  {
+    "input_id": "213cc59f-6ea6-46e0-b43e-709509180ce5",
+    "link": "https://www.google.com/maps/place/Menteng+Park/data=!4m7!3m6!1s0x2e69f422b00ee429:0xa28d5c5a0efbe12e!8m2!3d-6.1964087!4d106.8293106!16s%2Fg%2F11byz6zj8g!19sChIJKeQOsCL0aS4RLuH7DlpcjaI?authuser=0\u0026hl=en\u0026rclk=1",
+    "cid": "11713119747728728366",
+    "title": "Menteng Park",
+    "categories": [
+      "City park",
+      "Tourist attraction"
+    ],
+    "category": "City park",
+    "address": "Jl. HOS. Cokroaminoto, RT.3/RW.5, Menteng, Central Jakarta City, Jakarta 10310",
+    "open_hours": {},
+    "popular_times": {
+      "Friday": {
+        "0": 24,
+        "1": 17,
+        "10": 65,
+        "11": 89,
+        "12": 100,
+        "13": 78,
+        "14": 60,
+        "15": 51,
+        "16": 53,
+        "17": 57,
+        "18": 59,
+        "19": 60,
+        "2": 12,
+        "20": 59,
+        "21": 55,
+        "22": 46,
+        "23": 36,
+        "3": 10,
+        "4": 9,
+        "5": 11,
+        "6": 19,
+        "7": 28,
+        "8": 37,
+        "9": 47
+      },
+      "Monday": {
+        "0": 20,
+        "1": 13,
+        "10": 37,
+        "11": 40,
+        "12": 42,
+        "13": 42,
+        "14": 43,
+        "15": 45,
+        "16": 47,
+        "17": 50,
+        "18": 50,
+        "19": 49,
+        "2": 9,
+        "20": 45,
+        "21": 41,
+        "22": 36,
+        "23": 30,
+        "3": 7,
+        "4": 8,
+        "5": 12,
+        "6": 20,
+        "7": 28,
+        "8": 33,
+        "9": 35
+      },
+      "Saturday": {
+        "0": 46,
+        "1": 32,
+        "10": 45,
+        "11": 43,
+        "12": 42,
+        "13": 44,
+        "14": 47,
+        "15": 54,
+        "16": 60,
+        "17": 65,
+        "18": 66,
+        "19": 68,
+        "2": 22,
+        "20": 73,
+        "21": 77,
+        "22": 75,
+        "23": 65,
+        "3": 15,
+        "4": 12,
+        "5": 12,
+        "6": 19,
+        "7": 30,
+        "8": 39,
+        "9": 44
+      },
+      "Sunday": {
+        "0": 20,
+        "1": 13,
+        "10": 48,
+        "11": 40,
+        "12": 36,
+        "13": 34,
+        "14": 38,
+        "15": 45,
+        "16": 55,
+        "17": 61,
+        "18": 58,
+        "19": 52,
+        "2": 8,
+        "20": 47,
+        "21": 43,
+        "22": 37,
+        "23": 30,
+        "3": 7,
+        "4": 8,
+        "5": 12,
+        "6": 22,
+        "7": 35,
+        "8": 47,
+        "9": 51
+      },
+      "Thursday": {
+        "0": 22,
+        "1": 14,
+        "10": 41,
+        "11": 44,
+        "12": 46,
+        "13": 46,
+        "14": 47,
+        "15": 50,
+        "16": 55,
+        "17": 58,
+        "18": 57,
+        "19": 53,
+        "2": 9,
+        "20": 49,
+        "21": 46,
+        "22": 40,
+        "23": 34,
+        "3": 7,
+        "4": 9,
+        "5": 13,
+        "6": 20,
+        "7": 28,
+        "8": 32,
+        "9": 36
+      },
+      "Tuesday": {
+        "0": 20,
+        "1": 13,
+        "10": 39,
+        "11": 43,
+        "12": 49,
+        "13": 50,
+        "14": 51,
+        "15": 52,
+        "16": 55,
+        "17": 57,
+        "18": 56,
+        "19": 52,
+        "2": 8,
+        "20": 49,
+        "21": 45,
+        "22": 39,
+        "23": 31,
+        "3": 7,
+        "4": 8,
+        "5": 13,
+        "6": 20,
+        "7": 27,
+        "8": 32,
+        "9": 35
+      },
+      "Wednesday": {
+        "0": 22,
+        "1": 14,
+        "10": 45,
+        "11": 50,
+        "12": 55,
+        "13": 55,
+        "14": 53,
+        "15": 52,
+        "16": 55,
+        "17": 58,
+        "18": 57,
+        "19": 55,
+        "2": 8,
+        "20": 51,
+        "21": 47,
+        "22": 41,
+        "23": 34,
+        "3": 7,
+        "4": 8,
+        "5": 13,
+        "6": 21,
+        "7": 31,
+        "8": 38,
+        "9": 42
+      }
+    },
+    "web_site": "",
+    "phone": "",
+    "plus_code": "RR3H+CP Menteng, Central Jakarta City, Jakarta",
+    "review_count": 20590,
+    "review_rating": 4.5,
+    "reviews_per_rating": {
+      "1": 317,
+      "2": 253,
+      "3": 1546,
+      "4": 4444,
+      "5": 14030
+    },
+    "latitude": -6.1964087,
+    "longtitude": 106.8293106,
+    "status": "",
+    "description": "This 30-hectare public park features gardens, a playground, sport courts \u0026 absorption wells.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKeQOsCL0aS4RLuH7DlpcjaI\u0026q=Menteng+Park\u0026authuser=0\u0026hl=en\u0026gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZuo1257E-yaS6Gw3-gEPhi-QDMDbz7MXfuSv2=w408-h272-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": "",
+    "data_id": "0x2e69f422b00ee429:0xa28d5c5a0efbe12e",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMZuo1257E-yaS6Gw3-gEPhi-QDMDbz7MXfuSv2=w446-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNEwgFuhHniPErqT0NsseiiifrWST2k_dN2h-ne=w224-h474-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMt59RJmT4qXe0gD0YvLOmgh-X6GxTA6SEUm5_x=w529-h298-k-no"
+      },
+      {
+        "title": "Property Maps",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOECeZOEVOMiPl5G57yxlJojG5vsRJfL_qCDCi2=w224-h398-k-no"
+      },
+      {
+        "title": "Park",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipM5c4FQkwOsXh5rgB72sSI2WVMDvNfksJwdQNPo=w529-h298-k-no"
+      },
+      {
+        "title": "Ex Menteng Park Stadium Persija",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMnE5qQ9AtFG7ZcP1FFd6SvA5Q8YFvaNPTV8E2V=w398-h298-k-no"
+      },
+      {
+        "title": "Al-Hakim Grand Mosque",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOcR27CBZ0dYl7UDnUki8V7lTilKMi-ZemW7Pgv=w529-h298-k-no"
+      },
+      {
+        "title": "Lapangan Basket Taman Menteng",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMGlN3-FXPE-hPfAbWN2W-Z0ONsfWWN8dnIlGGz=w397-h298-k-no"
+      },
+      {
+        "title": "Street View \u0026 360°",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMdeaHGl_bzWNbWiyoQq3nZsJlftWen2ymZBlyD=w224-h298-k-no-pi-20-ya260-ro0-fo100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "111902453557016756064",
+      "name": "Menteng Park (Owner)",
+      "link": "https://www.google.com/maps/contrib/111902453557016756064"
+    },
+    "complete_address": {
+      "borough": "Menteng",
+      "street": "Jl. HOS. Cokroaminoto, RT.3/RW.5",
+      "city": "Central Jakarta City",
+      "postal_code": "10310",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Basketball court",
+            "enabled": true
+          },
+          {
+            "name": "Public toilet",
+            "enabled": true
+          },
+          {
+            "name": "Skateboarding area",
+            "enabled": true
+          },
+          {
+            "name": "Slides",
+            "enabled": true
+          },
+          {
+            "name": "Swings",
+            "enabled": true
+          },
+          {
+            "name": "Volleyball court",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          },
+          {
+            "name": "Playground",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "pets",
+        "name": "Pets",
+        "options": [
+          {
+            "name": "Dogs allowed",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null
+  },
+  {
+    "input_id": "213cc59f-6ea6-46e0-b43e-709509180ce5",
+    "link": "https://www.google.com/maps/place/Selamat+Datang+Monument/data=!4m7!3m6!1s0x2e69f69fabaf5407:0x243d1c0d2c810c99!8m2!3d-6.1949841!4d106.8230272!16s%2Fm%2F0g9tpx8!19sChIJB1Svq5_2aS4RmQyBLA0cPSQ?authuser=0\u0026hl=en\u0026rclk=1",
+    "cid": "2611274201851563161",
+    "title": "Selamat Datang Monument",
+    "categories": [
+      "Monument",
+      "Tourist attraction"
+    ],
+    "category": "Monument",
+    "address": "Jl. Kebon Melati 1 No.5, RT.1/RW.5, Menteng, Central Jakarta City, Jakarta 10310",
+    "open_hours": {},
+    "popular_times": {},
+    "web_site": "",
+    "phone": "",
+    "plus_code": "RR4F+26 Menteng, Central Jakarta City, Jakarta",
+    "review_count": 8685,
+    "review_rating": 4.7,
+    "reviews_per_rating": {
+      "1": 130,
+      "2": 62,
+      "3": 278,
+      "4": 1148,
+      "5": 7067
+    },
+    "latitude": -6.1949841,
+    "longtitude": 106.8230272,
+    "status": "",
+    "description": "Iconic monument built within a fountain depicting a man \u0026 woman making welcoming gestures.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB1Svq5_2aS4RmQyBLA0cPSQ\u0026q=Selamat+Datang+Monument\u0026authuser=0\u0026hl=en\u0026gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0Wimeii0tLRH48YeOTlJbcs32uwmFMhupwZXa=w408-h408-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": "",
+    "data_id": "0x2e69f69fabaf5407:0x243d1c0d2c810c99",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO0Wimeii0tLRH48YeOTlJbcs32uwmFMhupwZXa=w298-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNhuM9M9pFLVZXt17gTDiUNR1Q5NUKAAh6e8x3Z=w529-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPLsSGTNeRYo-nSscPMnvgC5g48TdkCptfYgso0=w224-h398-k-no"
+      },
+      {
+        "title": "Street View \u0026 360°",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipM0zRn_W7crnifFJ1FZh_G812pdFgus3KbGLhii=w224-h298-k-no-pi-21.607718-ya333.32797-ro-0-fo100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "Selamat Datang Monument (Owner)",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "Menteng",
+      "street": "Jl. Kebon Melati 1 No.5, RT.1/RW.5",
+      "city": "Central Jakarta City",
+      "postal_code": "10310",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": false
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": false
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null
+  },
+  {
+    "input_id": "058e6ced-5195-4881-9e21-b42700af7b30",
+    "link": "https://www.google.com/maps/place/Osteria+Gia+Plaza+Indonesia/data=!4m7!3m6!1s0x2e69f5a64ca07a41:0xe0b15216c2b89678!8m2!3d-6.1939355!4d106.8226376!16s%2Fg%2F11mw7h8t6j!19sChIJQXqgTKb1aS4ReJa4whZSseA?authuser=0\u0026hl=en\u0026rclk=1",
+    "cid": "16190812393083278968",
+    "title": "Osteria Gia Plaza Indonesia",
+    "categories": [
+      "Italian restaurant",
+      "Restaurant"
+    ],
+    "category": "Italian restaurant",
+    "address": "Jl. M.H. Thamrin No.30, RT.9/RW.5, Gondangdia, Menteng, Central Jakarta City, Jakarta 10350",
+    "open_hours": {
+      "Friday": [
+        "11.00 am–10.00 pm"
+      ],
+      "Monday": [
+        "11.00 am–10.00 pm"
+      ],
+      "Saturday": [
+        "11.00 am–10.00 pm"
+      ],
+      "Sunday": [
+        "11.00 am–10.00 pm"
+      ],
+      "Thursday": [
+        "11.00 am–10.00 pm"
+      ],
+      "Tuesday": [
+        "11.00 am–10.00 pm"
+      ],
+      "Wednesday": [
+        "11.00 am–10.00 pm"
+      ]
+    },
+    "popular_times": {
+      "Friday": {
+        "10": 0,
+        "11": 23,
+        "12": 30,
+        "13": 36,
+        "14": 39,
+        "15": 43,
+        "16": 48,
+        "17": 55,
+        "18": 60,
+        "19": 62,
+        "20": 56,
+        "21": 41,
+        "22": 0,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Monday": {
+        "10": 0,
+        "11": 19,
+        "12": 23,
+        "13": 26,
+        "14": 29,
+        "15": 33,
+        "16": 39,
+        "17": 44,
+        "18": 48,
+        "19": 49,
+        "20": 42,
+        "21": 29,
+        "22": 0,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Saturday": {
+        "10": 0,
+        "11": 29,
+        "12": 38,
+        "13": 47,
+        "14": 56,
+        "15": 67,
+        "16": 77,
+        "17": 86,
+        "18": 93,
+        "19": 100,
+        "20": 96,
+        "21": 77,
+        "22": 0,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Sunday": {
+        "10": 0,
+        "11": 43,
+        "12": 50,
+        "13": 54,
+        "14": 57,
+        "15": 65,
+        "16": 73,
+        "17": 79,
+        "18": 79,
+        "19": 76,
+        "20": 66,
+        "21": 47,
+        "22": 0,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Thursday": {
+        "10": 0,
+        "11": 26,
+        "12": 33,
+        "13": 35,
+        "14": 36,
+        "15": 39,
+        "16": 46,
+        "17": 53,
+        "18": 58,
+        "19": 59,
+        "20": 53,
+        "21": 38,
+        "22": 0,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Tuesday": {
+        "10": 0,
+        "11": 22,
+        "12": 28,
+        "13": 32,
+        "14": 34,
+        "15": 37,
+        "16": 41,
+        "17": 47,
+        "18": 51,
+        "19": 53,
+        "20": 47,
+        "21": 34,
+        "22": 0,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "Wednesday": {
+        "10": 0,
+        "11": 25,
+        "12": 33,
+        "13": 39,
+        "14": 40,
+        "15": 41,
+        "16": 44,
+        "17": 50,
+        "18": 55,
+        "19": 55,
+        "20": 47,
+        "21": 34,
+        "22": 0,
+        "23": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      }
+    },
+    "web_site": "",
+    "phone": "0812-9907-3300",
+    "plus_code": "RR4F+C3 Gondangdia, Central Jakarta City, Jakarta",
+    "review_count": 1884,
+    "review_rating": 4.8,
+    "reviews_per_rating": {
+      "1": 26,
+      "2": 7,
+      "3": 30,
+      "4": 171,
+      "5": 1650
+    },
+    "latitude": -6.193935499999999,
+    "longtitude": 106.8226376,
+    "status": "Open ⋅ Closes 10.00 pm",
+    "description": "",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQXqgTKb1aS4ReJa4whZSseA\u0026q=Osteria+Gia+Plaza+Indonesia\u0026authuser=0\u0026hl=en\u0026gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8S41KywlDQjEDbSSiNKrYInFoSTfZbMlnIFJx=w420-h240-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": "",
+    "data_id": "0x2e69f5a64ca07a41:0xe0b15216c2b89678",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN8S41KywlDQjEDbSSiNKrYInFoSTfZbMlnIFJx=w522-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMKp80O5Ml8oi08wam38i2hbKGrxEGyeksLv588=w224-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOT9XtBAD6gFbUD_RJieiwtpEUlrxO87VVHgScQ=w224-h398-k-no"
+      },
+      {
+        "title": "Menu",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMXTXDlLNulsp2EW63j90kP3PVHC6ovw3viMB_S=w421-h298-k-no"
+      },
+      {
+        "title": "Food \u0026 drink",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPv9KZwYjlidlFbk3Ns6DFGqCHjEUxMmfU6dXim=w529-h298-k-no"
+      },
+      {
+        "title": "Vibe",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPlK2WwPYuQdSlcmFqYhjW6Hh7mTa0tpT-wqkZY=w458-h298-k-no"
+      },
+      {
+        "title": "Tiramisu",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOcEL2kTamk3wd0-CUfO-fbBqKBmLUgy1Vd5H-P=w344-h298-k-no"
+      },
+      {
+        "title": "Pizza",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNffm8LZm4oNX1D6kwO4b80dK8PfPaekjvLnQcC=w397-h298-k-no"
+      },
+      {
+        "title": "Carpaccio",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPolggoxZn5fZqwdyuC5RsOF08KU-KiHMmEndWS=w224-h298-k-no"
+      },
+      {
+        "title": "Tempura",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMyA8P0PhzNLraiBF2aVjU-OycMB1fD8ww1OArN=w224-h298-k-no"
+      },
+      {
+        "title": "Spaghetti",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMSlGyzuZAnLkrofhMmFmbYJOUvqbTUtuKIPJ3L=w224-h398-k-no"
+      },
+      {
+        "title": "Caesar salad",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPis_wZzgBpv95r2J7SZCqVabz8EmkTr68IQctT=w397-h298-k-no"
+      },
+      {
+        "title": "Steak",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOnwhWue2-6cFQEPQJi5H4usFk5nhONZSE--qaX=w396-h298-k-no"
+      },
+      {
+        "title": "Pappardelle",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP3oFn-oq-9O_s_R01DTw8O1FbdJJ1vMd74lMPB=w224-h298-k-no"
+      },
+      {
+        "title": "Tagliatelle",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMPXiVU1UC5GeBami9FnpOYJAOzX2kOiD2cB_ab=w224-h398-k-no"
+      },
+      {
+        "title": "By owner",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPF6ypKxlFpedhfKzXsBUuJw7garE7Gmm3RQrs-=w458-h298-k-no"
+      },
+      {
+        "title": "Street View \u0026 360°",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sl-m9NWxaydQ_O1H2Lx9lw\u0026cb_client=maps_sv.tactile.gps\u0026w=224\u0026h=298\u0026yaw=287.48145\u0026pitch=0\u0026thumbfov=100"
+      }
+    ],
+    "reservations": [
+      {
+        "link": "https://www.tablecheck.com/osteria-gia-pi/reserve?utm_source=google",
+        "source": "tablecheck.com"
+      }
+    ],
+    "order_online": [
+      {
+        "link": "https://wa.link/h9nl8s",
+        "source": "wa.link"
+      },
+      {
+        "link": "https://gofood.co.id/jakarta/restaurant/6e3ee5e4-f0b2-4efe-8103-ad0e236fa6c4?as=gmaps",
+        "source": "gofood.co.id"
+      }
+    ],
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "104130908727815697730",
+      "name": "Osteria Gia Plaza Indonesia (Owner)",
+      "link": "https://www.google.com/maps/contrib/104130908727815697730"
+    },
+    "complete_address": {
+      "borough": "Gondangdia, Menteng",
+      "street": "Jl. M.H. Thamrin No.30, RT.9/RW.5",
+      "city": "Central Jakarta City",
+      "postal_code": "10350",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Outdoor seating",
+            "enabled": true
+          },
+          {
+            "name": "No-contact delivery",
+            "enabled": true
+          },
+          {
+            "name": "Delivery",
+            "enabled": true
+          },
+          {
+            "name": "Takeaway",
+            "enabled": true
+          },
+          {
+            "name": "Dine-in",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible seating",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "offerings",
+        "name": "Offerings",
+        "options": [
+          {
+            "name": "Alcohol",
+            "enabled": true
+          },
+          {
+            "name": "Beer",
+            "enabled": true
+          },
+          {
+            "name": "Cocktails",
+            "enabled": true
+          },
+          {
+            "name": "Coffee",
+            "enabled": true
+          },
+          {
+            "name": "Halal food",
+            "enabled": true
+          },
+          {
+            "name": "Spirits",
+            "enabled": true
+          },
+          {
+            "name": "Wine",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "dining_options",
+        "name": "Dining options",
+        "options": [
+          {
+            "name": "Breakfast",
+            "enabled": true
+          },
+          {
+            "name": "Brunch",
+            "enabled": true
+          },
+          {
+            "name": "Lunch",
+            "enabled": true
+          },
+          {
+            "name": "Dinner",
+            "enabled": true
+          },
+          {
+            "name": "Catering",
+            "enabled": true
+          },
+          {
+            "name": "Dessert",
+            "enabled": true
+          },
+          {
+            "name": "Seating",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Bar on site",
+            "enabled": true
+          },
+          {
+            "name": "Toilets",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "atmosphere",
+        "name": "Atmosphere",
+        "options": [
+          {
+            "name": "Casual",
+            "enabled": true
+          },
+          {
+            "name": "Cosy",
+            "enabled": true
+          },
+          {
+            "name": "Upmarket",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "crowd",
+        "name": "Crowd",
+        "options": [
+          {
+            "name": "Groups",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "name": "Planning",
+        "options": [
+          {
+            "name": "Accepts reservations",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Credit cards",
+            "enabled": true
+          },
+          {
+            "name": "Debit cards",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          },
+          {
+            "name": "High chairs",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "options": [
+          {
+            "name": "Paid parking lot",
+            "enabled": true
+          },
+          {
+            "name": "Parking",
+            "enabled": false
+          },
+          {
+            "name": "Valet parking",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null
+  },
+  {
+    "input_id": "213cc59f-6ea6-46e0-b43e-709509180ce5",
+    "link": "https://www.google.com/maps/place/Situ+Lembang+Park/data=!4m7!3m6!1s0x514107ef6417075:0xdf97f027bb9bcd42!8m2!3d-6.1973783!4d106.8343448!16s%2Fg%2F11bzq3fvt7!19sChIJdXBB9n4QFAURQs2buyfwl98?authuser=0\u0026hl=en\u0026rclk=1",
+    "cid": "16111610245383179586",
+    "title": "Situ Lembang Park",
+    "categories": [
+      "City park",
+      "Park",
+      "Tourist attraction"
+    ],
+    "category": "City park",
+    "address": "Jl. Lembang Terusan No.D-59, RT.6/RW.5, Menteng, Central Jakarta City, Jakarta 12910",
+    "open_hours": {},
+    "popular_times": {
+      "Friday": {
+        "0": 6,
+        "1": 4,
+        "10": 35,
+        "11": 36,
+        "12": 37,
+        "13": 42,
+        "14": 50,
+        "15": 60,
+        "16": 64,
+        "17": 54,
+        "18": 33,
+        "19": 20,
+        "2": 3,
+        "20": 13,
+        "21": 12,
+        "22": 11,
+        "23": 9,
+        "3": 3,
+        "4": 5,
+        "5": 13,
+        "6": 26,
+        "7": 37,
+        "8": 39,
+        "9": 37
+      },
+      "Monday": {
+        "0": 6,
+        "1": 4,
+        "10": 35,
+        "11": 38,
+        "12": 39,
+        "13": 43,
+        "14": 52,
+        "15": 62,
+        "16": 69,
+        "17": 60,
+        "18": 37,
+        "19": 20,
+        "2": 3,
+        "20": 13,
+        "21": 12,
+        "22": 11,
+        "23": 10,
+        "3": 3,
+        "4": 4,
+        "5": 8,
+        "6": 15,
+        "7": 23,
+        "8": 28,
+        "9": 32
+      },
+      "Saturday": {
+        "0": 8,
+        "1": 6,
+        "10": 44,
+        "11": 42,
+        "12": 41,
+        "13": 43,
+        "14": 52,
+        "15": 64,
+        "16": 73,
+        "17": 66,
+        "18": 41,
+        "19": 24,
+        "2": 4,
+        "20": 15,
+        "21": 15,
+        "22": 14,
+        "23": 12,
+        "3": 4,
+        "4": 6,
+        "5": 12,
+        "6": 24,
+        "7": 38,
+        "8": 45,
+        "9": 47
+      },
+      "Sunday": {
+        "0": 5,
+        "1": 4,
+        "10": 65,
+        "11": 55,
+        "12": 48,
+        "13": 45,
+        "14": 56,
+        "15": 77,
+        "16": 100,
+        "17": 92,
+        "18": 53,
+        "19": 26,
+        "2": 4,
+        "20": 13,
+        "21": 13,
+        "22": 11,
+        "23": 9,
+        "3": 4,
+        "4": 7,
+        "5": 15,
+        "6": 31,
+        "7": 52,
+        "8": 66,
+        "9": 71
+      },
+      "Thursday": {
+        "0": 6,
+        "1": 5,
+        "10": 36,
+        "11": 36,
+        "12": 38,
+        "13": 42,
+        "14": 50,
+        "15": 60,
+        "16": 67,
+        "17": 61,
+        "18": 37,
+        "19": 22,
+        "2": 4,
+        "20": 14,
+        "21": 12,
+        "22": 11,
+        "23": 9,
+        "3": 3,
+        "4": 6,
+        "5": 12,
+        "6": 24,
+        "7": 33,
+        "8": 38,
+        "9": 38
+      },
+      "Tuesday": {
+        "0": 6,
+        "1": 4,
+        "10": 40,
+        "11": 41,
+        "12": 40,
+        "13": 41,
+        "14": 45,
+        "15": 52,
+        "16": 56,
+        "17": 48,
+        "18": 29,
+        "19": 17,
+        "2": 3,
+        "20": 12,
+        "21": 12,
+        "22": 12,
+        "23": 10,
+        "3": 3,
+        "4": 5,
+        "5": 12,
+        "6": 22,
+        "7": 31,
+        "8": 35,
+        "9": 38
+      },
+      "Wednesday": {
+        "0": 5,
+        "1": 4,
+        "10": 40,
+        "11": 41,
+        "12": 40,
+        "13": 42,
+        "14": 48,
+        "15": 58,
+        "16": 64,
+        "17": 57,
+        "18": 36,
+        "19": 21,
+        "2": 3,
+        "20": 14,
+        "21": 12,
+        "22": 10,
+        "23": 8,
+        "3": 4,
+        "4": 5,
+        "5": 11,
+        "6": 21,
+        "7": 31,
+        "8": 36,
+        "9": 39
+      }
+    },
+    "web_site": "",
+    "phone": "",
+    "plus_code": "RR3M+2P Menteng, Central Jakarta City, Jakarta",
+    "review_count": 6414,
+    "review_rating": 4.6,
+    "reviews_per_rating": {
+      "1": 107,
+      "2": 66,
+      "3": 405,
+      "4": 1208,
+      "5": 4628
+    },
+    "latitude": -6.1973783,
+    "longtitude": 106.8343448,
+    "status": "",
+    "description": "This quaint green space around a fishing pond has shade trees, paved paths \u0026 kids' play equipment.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdXBB9n4QFAURQs2buyfwl98\u0026q=Situ+Lembang+Park\u0026authuser=0\u0026hl=en\u0026gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOvFRVu2X7pBYWHqffPKvSRW9PhGQ-sM_DYoxj=w408-h306-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": "",
+    "data_id": "0x514107ef6417075:0xdf97f027bb9bcd42",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMOvFRVu2X7pBYWHqffPKvSRW9PhGQ-sM_DYoxj=w397-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPJfrjdb66vn4X9yBkLyNld5SVj4XrkwZ0C1Skj=w224-h399-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP8KrpREAZkqNOrzHULG53OLJdZFJd-SFH3UNAu=w529-h298-k-no"
+      },
+      {
+        "title": "Park",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO_gbjcLfNNtX75O-WzIKUpLG8GG0wis86Uh5ix=w238-h298-k-no"
+      },
+      {
+        "title": "Street View \u0026 360°",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOtLkyOormyvGEwpJdAq0rOiDaPnmsN9VpCTBmi=w224-h298-k-no-pi-0-ya325-ro-0-fo100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "Situ Lembang Park (Owner)",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "Menteng",
+      "street": "Jl. Lembang Terusan No.D-59, RT.6/RW.5",
+      "city": "Central Jakarta City",
+      "postal_code": "12910",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": false
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Public toilet",
+            "enabled": true
+          },
+          {
+            "name": "Slides",
+            "enabled": true
+          },
+          {
+            "name": "Swings",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          },
+          {
+            "name": "Playground",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "pets",
+        "name": "Pets",
+        "options": [
+          {
+            "name": "Dogs allowed",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null
+  }
+]

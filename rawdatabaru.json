@@ -1,0 +1,142 @@
+[
+  {
+    "data_id": "14170022843724530636",
+    "title": "Pacific Place Mall",
+    "category": "Shopping mall",
+    "address": "Jl. Jend. Sudirman kav 52-53, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190",
+    "facilities": {
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance",
+      "offerings": "Arcade games",
+      "amenities": "Toilets",
+      "payments": "Debit cards,NFC mobile payments"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "10:00–22:00"
+    },
+    "review_rating": 4.7,
+    "description": "Huge nautical-themed mall with mainstream & luxury shops, eateries & kids' play areas with rides."
+  },
+  {
+    "data_id": "6264656047765341716",
+    "title": "Hutan Kota GBK",
+    "category": "City park",
+    "address": "Jl. Jenderal Sudirman, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+    "facilities": {
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance",
+      "amenities": "Public toilet",
+      "children": "Good for kids",
+      "pets": "Dogs allowed"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "6.00–10:00"
+    },
+    "review_rating": 4.7,
+    "description": "Green area with an array of sports fields & a baseball stadium, plus restaurants & picnic areas."
+  },
+  {
+    "data_id": "3264199388153820742",
+    "title": "Sahabat Selam",
+    "category": "Diving center",
+    "address": "Ruko Plaza Bona Indah Blok A2 No. D4, Jl. Karang Tengah Raya, RT.1/RW.6, Lb. Bulus, Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440",
+    "facilities": {},
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "Open 24 hours"
+    },
+    "review_rating": 5,
+    "description": null
+  },
+  {
+    "data_id": "13697176168510620295",
+    "title": "City Tour Jakarta",
+    "category": "Travel agency",
+    "address": "Komp. Kejagung G31, Indonesia, Jl. Raya Ragunan Jl. Raya Pasar Minggu, RT.7/RW.3, Ps. Minggu, Jakarta, Daerah Khusus Ibukota Jakarta 12520",
+    "facilities": {},
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "Open 24 hours"
+    },
+    "review_rating": 4.8,
+    "description": null
+  },
+  {
+    "data_id": "14247661432227023221",
+    "title": "UAI Maps",
+    "category": "Visitor center",
+    "address": "Jl. Sisingamangaraja No.2, RT.2/RW.1, Selong, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12110",
+    "facilities": {
+      "children": "Good for kids"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "Open 24 hours"
+    },
+    "review_rating": 1,
+    "description": null
+  },
+  {
+    "data_id": "414443699961353960",
+    "title": "Wisata Kreatif Jakarta (Jakarta Tours and Virtual Tours Specialist )",
+    "category": "Travel agency",
+    "address": "Jalan Casablanca Office 88 Lantai 9 Unit A Gedung 88 Kota Casablanca, RT.4/RW.12, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870",
+    "facilities": {},
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "Closed"
+    },
+    "review_rating": 5,
+    "description": null
+  },
+  {
+    "data_id": "5181461691494306822",
+    "title": "Central Park Restaurant",
+    "category": "Restaurant",
+    "address": "Manhattan Hotel 3rd Floor, JL Prof. Dr. Satrio, No. 1, Casablanca Kuningan, RT.7/RW.4, Kuningan, Karet Kuningan, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+    "facilities": {
+      "service_options": "Outdoor seating,No-contact delivery,Delivery,Takeaway,Dine-in",
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance,Wheelchair-accessible seating,Wheelchair-accessible toilet",
+      "offerings": "Alcohol,Beer,Cocktails,Coffee,Halal food,Spirits,Wine",
+      "dining_options": "Breakfast,Brunch,Lunch,Dinner,Dessert,Seating",
+      "amenities": "Bar on site,Toilets",
+      "atmosphere": "Casual,Cosy",
+      "crowd": "Groups",
+      "planning": "Accepts reservations",
+      "payments": "Credit cards",
+      "children": "Good for kids,Kids' menu"
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "06:00–23:00"
+    },
+    "review_rating": 4.4,
+    "description": "Tempat makan buffet yg menyajikan menu Western, Indonesia traditional, chinese dan buka 24 jam."
+  },
+  {
+    "data_id": "3233999153700885152",
+    "title": "Jakarta Restaurant & The Courtyard",
+    "category": "Restaurant",
+    "address": "Jl. Brawijaya Raya No.26, RT.1/RW.2, Kebayoran Baru, South Jakarta City, Jakarta 12160",
+    "facilities": {
+      "service_options": "Outdoor seating,No-contact delivery,Delivery,Takeaway,Dine-in",
+      "highlights": "Great cocktails",
+      "accessibility": "Wheelchair-accessible car park,Wheelchair-accessible entrance,Wheelchair-accessible seating,Wheelchair-accessible toilet",
+      "offerings": "Alcohol,Beer,Cocktails,Coffee,Halal food,Spirits,Wine",
+      "dining_options": "Breakfast,Brunch,Lunch,Dinner,Catering,Dessert,Seating",
+      "amenities": "Bar on site,Toilets,Wi-Fi",
+      "atmosphere": "Casual,Cosy,Upmarket",
+      "crowd": "Groups",
+      "planning": "Accepts reservations",
+      "payments": "Credit cards,Debit cards",
+      "children": "Good for kids,Kids' menu",
+      "parking": ""
+    },
+    "open_hours_day": {
+      "day": "Sunday",
+      "open_hours": "07:00–22:00"
+    },
+    "review_rating": 4.8,
+    "description": "Indonesian & global fare in a chic, airy hotel eatery with Art Deco accents & a leafy courtyard."
+  }
+]

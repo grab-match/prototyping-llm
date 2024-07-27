@@ -1,0 +1,1891 @@
+[
+  {
+    "link": "https://www.google.com/maps/place/Pacific+Place+Mall/data=!4m7!3m6!1s0x2e69f151104aee2b:0xc4a608b34b5f03cc!8m2!3d-6.2244883!4d106.8102729!16s%2Fm%2F04zwlyh!19sChIJK-5KEFHxaS4RzANfS7MIpsQ?authuser=0&hl=en&rclk=1",
+    "cid": "14170022843724530636",
+    "title": "Pacific Place Mall",
+    "categories": [
+      "Shopping mall"
+    ],
+    "category": "Shopping mall",
+    "address": "Jl. Jend. Sudirman kav 52-53, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190",
+    "open_hours": {
+      "Friday": "10:00–22:00",
+      "Monday": "10:00–22:00",
+      "Saturday": "10:00–22:00",
+      "Sunday": "10:00–22:00",
+      "Thursday": "10:00–22:00",
+      "Tuesday": "10:00–22:00",
+      "Wednesday": "10:00–22:00"
+    },
+    "popular_times": {
+      "Friday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 56,
+        "11": 80,
+        "12": 97,
+        "13": 98,
+        "14": 89,
+        "15": 81,
+        "16": 77,
+        "17": 78,
+        "18": 77,
+        "19": 73,
+        "20": 64,
+        "21": 52,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 49,
+        "11": 66,
+        "12": 78,
+        "13": 80,
+        "14": 75,
+        "15": 70,
+        "16": 67,
+        "17": 67,
+        "18": 64,
+        "19": 58,
+        "20": 48,
+        "21": 38,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 31,
+        "11": 40,
+        "12": 50,
+        "13": 57,
+        "14": 62,
+        "15": 65,
+        "16": 66,
+        "17": 66,
+        "18": 66,
+        "19": 63,
+        "20": 57,
+        "21": 48,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 27,
+        "11": 36,
+        "12": 45,
+        "13": 53,
+        "14": 58,
+        "15": 60,
+        "16": 60,
+        "17": 58,
+        "18": 54,
+        "19": 49,
+        "20": 41,
+        "21": 33,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 51,
+        "11": 71,
+        "12": 86,
+        "13": 91,
+        "14": 86,
+        "15": 80,
+        "16": 76,
+        "17": 75,
+        "18": 73,
+        "19": 67,
+        "20": 57,
+        "21": 44,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 57,
+        "11": 77,
+        "12": 93,
+        "13": 96,
+        "14": 89,
+        "15": 81,
+        "16": 76,
+        "17": 75,
+        "18": 72,
+        "19": 66,
+        "20": 55,
+        "21": 43,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 58,
+        "11": 80,
+        "12": 97,
+        "13": 100,
+        "14": 92,
+        "15": 84,
+        "16": 79,
+        "17": 78,
+        "18": 76,
+        "19": 71,
+        "20": 61,
+        "21": 47,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "web_site": "http://www.pacificplace.co.id/",
+    "phone": "(021) 51402828",
+    "plus_code": "QRG6+64 Senayan, South Jakarta City, Jakarta",
+    "review_count": 49513,
+    "review_rating": 4.7,
+    "reviews_per_rating": {
+      "1": 594,
+      "2": 353,
+      "3": 2006,
+      "4": 9366,
+      "5": 37194
+    },
+    "status": "Open ⋅ Closes 10.00 pm",
+    "description": "Huge nautical-themed mall with mainstream & luxury shops, eateries & kids' play areas with rides.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJK-5KEFHxaS4RzANfS7MIpsQ&q=Pacific+Place+Mall&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwjeJFyY1jkGSvtxqxwGSlSLmV8zSQLhHdMQ-I=w408-h544-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f151104aee2b:0xc4a608b34b5f03cc",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s7WtyRkyiA2RIzApXA6FLQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0&pitch=0&thumbfov=100"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO7Yc79BMBraBctz9YHjht9PzfQCgo8YriuNI2y=w224-h398-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMqtl3q5MYgQRBkyCF67gCeHFL517Vz9NHri6re=w224-h398-k-no"
+      },
+      {
+        "title": "Inside",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPuih9b_ZAs-ed0AFSc-WIu4bxUdfcl6788l9ej=w224-h298-k-no"
+      },
+      {
+        "title": "Restaurant",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMNDU3H0MCL8QIGeQU0sseLFpFnTqvmvYnf7SZx=w397-h298-k-no"
+      },
+      {
+        "title": "By owner",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNfOleBPCioKhta9W0nWvnYrPo4r3JTkclTLA3s=w345-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNrqAaQvfK4z_MySg9v3Kcm5gjZ7ejYn7CBMvEj=w224-h298-k-no-pi-20-ya200-ro0-fo100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "100537251023738045637",
+      "name": "Pacific Place Mall (Owner)",
+      "link": "https://www.google.com/maps/contrib/100537251023738045637"
+    },
+    "complete_address": {
+      "borough": "Senayan, Kebayoran Baru",
+      "street": "Jl. Jend. Sudirman kav 52-53",
+      "city": "South Jakarta City",
+      "postal_code": "12190",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "offerings",
+        "name": "Offerings",
+        "options": [
+          {
+            "name": "Arcade games",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Toilets",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Debit cards",
+            "enabled": true
+          },
+          {
+            "name": "NFC mobile payments",
+            "enabled": true
+          },
+          {
+            "name": "Credit cards",
+            "enabled": false
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.2244883,
+      "lon": 106.8102729
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/place/Hutan+Kota+GBK/data=!4m7!3m6!1s0x2e69f16f5418b91b:0x56f0877bdf0e4614!8m2!3d-6.2216963!4d106.8078347!16s%2Fg%2F11fgkyg3q8!19sChIJG7kYVG_xaS4RFEYO33uH8FY?authuser=0&hl=en&rclk=1",
+    "cid": "6264656047765341716",
+    "title": "Hutan Kota GBK",
+    "categories": [
+      "City park",
+      "Park"
+    ],
+    "category": "City park",
+    "address": "Jl. Jenderal Sudirman, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+    "open_hours": {
+      "Friday": "6.00–10:00",
+      "Monday": "Closed",
+      "Saturday": "6.00–10:00",
+      "Sunday": "6.00–10:00",
+      "Thursday": "6.00–10:00",
+      "Tuesday": "6.00–10:00",
+      "Wednesday": "6.00–10:00"
+    },
+    "popular_times": null,
+    "web_site": null,
+    "phone": "(021) 29888555",
+    "plus_code": "QRH5+84 Gelora, Central Jakarta City, Jakarta",
+    "review_count": 4119,
+    "review_rating": 4.7,
+    "reviews_per_rating": {
+      "1": 55,
+      "2": 32,
+      "3": 146,
+      "4": 689,
+      "5": 3197
+    },
+    "status": "Closed ⋅ Opens 3.00 pm",
+    "description": "Green area with an array of sports fields & a baseball stadium, plus restaurants & picnic areas.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG7kYVG_xaS4RFEYO33uH8FY&q=Hutan+Kota+GBK&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMk_YoMPj6HgclVNFY6hXy2dhBVSDhSGj8axvsV=w408-h302-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f16f5418b91b:0x56f0877bdf0e4614",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMk_YoMPj6HgclVNFY6hXy2dhBVSDhSGj8axvsV=w401-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNcT9FO01SjFz1_KxgD-oXIhJde_c-gDHgMARdG=w224-h398-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMh-4763H6ScqHFbmab4iBiWiAiSq6E3zBiC7Ce=w224-h398-k-no"
+      },
+      {
+        "title": "Property Maps",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMb-dpncpP6HEdvDj7fhARssAlutMHj-olI9YcQ=w224-h298-k-no"
+      },
+      {
+        "title": "Hutan Kota by Plataran",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO6SSU2lHp4nuqaDkC230KJC979eXUYHD_yfq2l=w447-h298-k-no"
+      },
+      {
+        "title": "Park",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMoP_geGSrWgiqkStvt4vVNQyFmJ9X-z2Vz27XR=w224-h298-k-no"
+      },
+      {
+        "title": "Statue of Bung Karno",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO6-y8dFCiusXo2lDMos3g_CDfiPFqT35a18bar=w529-h298-k-no"
+      },
+      {
+        "title": "GBK City Park",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPlgjzkCSEpretlCiMLWlTqfdT4NjEfQiAUVqR0=w224-h298-k-no"
+      },
+      {
+        "title": "Gelora Bung Karno Main Stadium",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipM4H0evTAsaN7_ET3upMVGfd3bA-Jt_xU1cOqyJ=w397-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNuxeaxsvnJKmnVEiV-CtVZSsPwMaoU85qJhGop=w224-h298-k-no-pi0-ya340-ro0-fo100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "Hutan Kota GBK (Owner)",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "Gelora, Tanah Abang",
+      "street": "Jl. Jenderal Sudirman, RT.1/RW.3",
+      "city": "Central Jakarta City",
+      "postal_code": "10270",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Public toilet",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "pets",
+        "name": "Pets",
+        "options": [
+          {
+            "name": "Dogs allowed",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.2216963,
+      "lon": 106.8078347
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/place/Sahabat+Selam/data=!4m7!3m6!1s0x2e69f1128a2873cd:0x2d4cc40c8ef4b646!8m2!3d-6.3010106!4d106.7806963!16s%2Fg%2F11hbpj_jw0!19sChIJzXMoihLxaS4RRrb0jgzETC0?authuser=0&hl=en&rclk=1",
+    "cid": "3264199388153820742",
+    "title": "Sahabat Selam",
+    "categories": [
+      "Diving center",
+      "Dive club",
+      "SCUBA instructor",
+      "SCUBA tour agency"
+    ],
+    "category": "Diving center",
+    "address": "Ruko Plaza Bona Indah Blok A2 No. D4, Jl. Karang Tengah Raya, RT.1/RW.6, Lb. Bulus, Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440",
+    "open_hours": {
+      "Friday": "Open 24 hours",
+      "Monday": "Open 24 hours",
+      "Saturday": "Open 24 hours",
+      "Sunday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours"
+    },
+    "popular_times": null,
+    "web_site": null,
+    "phone": "0812-8877-8835",
+    "plus_code": "MQXJ+H7 Lebak Bulus, South Jakarta City, Jakarta",
+    "review_count": 1,
+    "review_rating": 5,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "status": null,
+    "description": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzXMoihLxaS4RRrb0jgzETC0&q=Sahabat+Selam&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPMujkrh0mY-2TzPd1W4NmH7JTd8Vtaxa_wVe_7=w408-h406-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f1128a2873cd:0x2d4cc40c8ef4b646",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPMujkrh0mY-2TzPd1W4NmH7JTd8Vtaxa_wVe_7=w298-h298-k-no"
+      },
+      {
+        "title": "By owner",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPf1uiSa5C229MdnanZnRWAerBXjF2sQ1ujsy0u=w397-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN0u1Fl6qPlLD5O9JrIZYK57anA4qk45wcqfhHb=w536-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5ovfjsY7o0vDebFj4IhU_Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=112.34019&pitch=0&thumbfov=100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "111970423154024278254",
+      "name": "Sahabat Selam (Owner)",
+      "link": "https://www.google.com/maps/contrib/111970423154024278254"
+    },
+    "complete_address": {
+      "borough": "Lebak Bulus, Cilandak",
+      "street": "Ruko Plaza Bona Indah Blok A2 No. D4, Jl. Karang Tengah Raya, RT.1/RW.6",
+      "city": "South Jakarta City",
+      "postal_code": "12440",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": null,
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.3010106,
+      "lon": 106.78069629999999
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/place/City+Tour+Jakarta/data=!4m7!3m6!1s0x2e69f34f583a79c5:0xbe1625278e058287!8m2!3d-6.285296!4d106.8350635!16s%2Fg%2F11gj4j_nw1!19sChIJxXk6WE_zaS4Rh4IFjiclFr4?authuser=0&hl=en&rclk=1",
+    "cid": "13697176168510620295",
+    "title": "City Tour Jakarta",
+    "categories": [
+      "Travel agency"
+    ],
+    "category": "Travel agency",
+    "address": "Komp. Kejagung G31, Indonesia, Jl. Raya Ragunan Jl. Raya Pasar Minggu, RT.7/RW.3, Ps. Minggu, Jakarta, Daerah Khusus Ibukota Jakarta 12520",
+    "open_hours": {
+      "Friday": "Open 24 hours",
+      "Monday": "Open 24 hours",
+      "Saturday": "Open 24 hours",
+      "Sunday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours"
+    },
+    "popular_times": {
+      "Friday": {
+        "0": 20,
+        "1": 10,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 10,
+        "9": 30,
+        "10": 20,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 10,
+        "19": 10,
+        "20": 20,
+        "21": 10,
+        "22": 0,
+        "23": 10
+      },
+      "Monday": {
+        "0": 60,
+        "1": 40,
+        "2": 20,
+        "3": 30,
+        "4": 70,
+        "5": 50,
+        "6": 70,
+        "7": 40,
+        "8": 20,
+        "9": 0,
+        "10": 10,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 10,
+        "17": 30,
+        "18": 50,
+        "19": 60,
+        "20": 40,
+        "21": 40,
+        "22": 30,
+        "23": 60
+      },
+      "Saturday": {
+        "0": 20,
+        "1": 10,
+        "2": 10,
+        "3": 30,
+        "4": 10,
+        "5": 0,
+        "6": 10,
+        "7": 30,
+        "8": 60,
+        "9": 30,
+        "10": 10,
+        "11": 10,
+        "12": 30,
+        "13": 10,
+        "14": 20,
+        "15": 60,
+        "16": 100,
+        "17": 90,
+        "18": 40,
+        "19": 30,
+        "20": 20,
+        "21": 50,
+        "22": 40,
+        "23": 40
+      },
+      "Sunday": {
+        "0": 70,
+        "1": 40,
+        "2": 40,
+        "3": 30,
+        "4": 40,
+        "5": 20,
+        "6": 30,
+        "7": 20,
+        "8": 20,
+        "9": 40,
+        "10": 30,
+        "11": 50,
+        "12": 30,
+        "13": 10,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 10,
+        "20": 40,
+        "21": 90,
+        "22": 90,
+        "23": 90
+      },
+      "Thursday": {
+        "0": 0,
+        "1": 10,
+        "2": 40,
+        "3": 70,
+        "4": 80,
+        "5": 60,
+        "6": 40,
+        "7": 40,
+        "8": 10,
+        "9": 0,
+        "10": 10,
+        "11": 20,
+        "12": 20,
+        "13": 30,
+        "14": 60,
+        "15": 90,
+        "16": 40,
+        "17": 20,
+        "18": 0,
+        "19": 0,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "0": 20,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 10,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 10,
+        "10": 20,
+        "11": 10,
+        "12": 0,
+        "13": 10,
+        "14": 20,
+        "15": 40,
+        "16": 30,
+        "17": 30,
+        "18": 20,
+        "19": 30,
+        "20": 30,
+        "21": 40,
+        "22": 80,
+        "23": 40
+      },
+      "Wednesday": {
+        "0": 40,
+        "1": 50,
+        "2": 30,
+        "3": 50,
+        "4": 30,
+        "5": 20,
+        "6": 0,
+        "7": 10,
+        "8": 20,
+        "9": 20,
+        "10": 20,
+        "11": 10,
+        "12": 0,
+        "13": 10,
+        "14": 20,
+        "15": 40,
+        "16": 20,
+        "17": 10,
+        "18": 0,
+        "19": 10,
+        "20": 20,
+        "21": 50,
+        "22": 20,
+        "23": 40
+      }
+    },
+    "web_site": "http://www.citytourjakarta.com/",
+    "phone": "0821-1243-8333",
+    "plus_code": "PR7P+V2 Pasar Minggu, South Jakarta City, Jakarta",
+    "review_count": 4,
+    "review_rating": 4.8,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3
+    },
+    "status": "Open 24 hours",
+    "description": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxXk6WE_zaS4Rh4IFjiclFr4&q=City+Tour+Jakarta&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO__sX4p5E7gPX4R0-tclhVxlMDNO8Ikcy2hD-8=w408-h306-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f34f583a79c5:0xbe1625278e058287",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO__sX4p5E7gPX4R0-tclhVxlMDNO8Ikcy2hD-8=w397-h298-k-no"
+      },
+      {
+        "title": "Inside",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO__sX4p5E7gPX4R0-tclhVxlMDNO8Ikcy2hD-8=w397-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NIQZLDJ-iXDldkNSQDHa5Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=327.60336&pitch=0&thumbfov=100"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "107920428615076484596",
+      "name": "City Tour Jakarta (Owner)",
+      "link": "https://www.google.com/maps/contrib/107920428615076484596"
+    },
+    "complete_address": {
+      "borough": "Pasar Minggu",
+      "street": "Komp. Kejagung G31, Indonesia, Jl. Raya Ragunan Jl. Raya Pasar Minggu, RT.7/RW.3",
+      "city": "Jakarta",
+      "postal_code": "12520",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": null,
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.285296,
+      "lon": 106.83506349999999
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/place/UAI+Maps/data=!4m7!3m6!1s0x2e69f10ea2d17197:0xc5b9dc95d3ecc975!8m2!3d-6.2378633!4d106.7988786!16s%2Fg%2F11q9_ml1st!19sChIJl3HRog7xaS4Rdcns05XcucU?authuser=0&hl=en&rclk=1",
+    "cid": "14247661432227023221",
+    "title": "UAI Maps",
+    "categories": [
+      "Visitor center"
+    ],
+    "category": "Visitor center",
+    "address": "Jl. Sisingamangaraja No.2, RT.2/RW.1, Selong, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12110",
+    "open_hours": {
+      "Friday": "Open 24 hours",
+      "Monday": "Open 24 hours",
+      "Saturday": "Open 24 hours",
+      "Sunday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours"
+    },
+    "popular_times": null,
+    "web_site": null,
+    "phone": null,
+    "plus_code": "QQ6X+VH Selong, South Jakarta City, Jakarta",
+    "review_count": 1,
+    "review_rating": 1,
+    "reviews_per_rating": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "status": null,
+    "description": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJl3HRog7xaS4Rdcns05XcucU&q=UAI+Maps&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6sj5oEEih8__iRQAL2jM0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=95.1955&pitch=0&thumbfov=100",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f10ea2d17197:0xc5b9dc95d3ecc975",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6sj5oEEih8__iRQAL2jM0Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=95.1955&pitch=0&thumbfov=100"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6sj5oEEih8__iRQAL2jM0Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=95.1955&pitch=0&thumbfov=100"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPLyWWcFNF2H1fDPoVPeAe3OUdEJiP9IyNS3GUA=w224-h398-k-no"
+      }
+    ],
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "UAI Maps (Owner)",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "Selong, Kebayoran Baru",
+      "street": "Jl. Sisingamangaraja No.2, RT.2/RW.1",
+      "city": "South Jakarta City",
+      "postal_code": "12110",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.2378633,
+      "lon": 106.7988786
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/place/Wisata+Kreatif+Jakarta+%28Jakarta+Tours+and+Virtual+Tours+Specialist+%29/data=!4m7!3m6!1s0x2e69f3a8e17b8c87:0x5c066596b9856e8!8m2!3d-6.2250124!4d106.8394134!16s%2Fg%2F11n35tvn1k!19sChIJh4x74ajzaS4R6FaYa1lmwAU?authuser=0&hl=en&rclk=1",
+    "cid": "414443699961353960",
+    "title": "Wisata Kreatif Jakarta (Jakarta Tours and Virtual Tours Specialist )",
+    "categories": [
+      "Travel agency"
+    ],
+    "category": "Travel agency",
+    "address": "Jalan Casablanca Office 88 Lantai 9 Unit A Gedung 88 Kota Casablanca, RT.4/RW.12, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870",
+    "open_hours": {
+      "Friday": "09:00–17:30",
+      "Monday": "09:00–17:30",
+      "Saturday": "Closed",
+      "Sunday": "Closed",
+      "Thursday": "09:00–17:30",
+      "Tuesday": "09:00–17:30",
+      "Wednesday": "09:00–17:30"
+    },
+    "popular_times": null,
+    "web_site": "http://www.wisatakreatifjakarta.com/",
+    "phone": "0812-9822-9129",
+    "plus_code": "QRFQ+XQ Menteng Dalam, South Jakarta City, Jakarta",
+    "review_count": 533,
+    "review_rating": 5,
+    "reviews_per_rating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 14,
+      "5": 519
+    },
+    "status": "Closed ⋅ Opens 9.00 am Mon",
+    "description": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh4x74ajzaS4R6FaYa1lmwAU&q=Wisata+Kreatif+Jakarta+(Jakarta+Tours+and+Virtual+Tours+Specialist+)&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMz9oW2gEbvtvSl1x99SIGE93wPq6GMMYDBv9UM=w408-h306-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f3a8e17b8c87:0x5c066596b9856e8",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMz9oW2gEbvtvSl1x99SIGE93wPq6GMMYDBv9UM=w397-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMIKtTq9qX-sJcYuLxM5Ei7ri1DznchvIv9ogGG=w224-h398-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPeT2uYQe8mwNfoiRbAADu9ejzgvuB8F-jRjGuQ=w224-h398-k-no"
+      },
+      {
+        "title": "Exterior",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNK6YxY0OX6W9wIDY7BySZWsDOLi-xcQW7tHsGP=w397-h298-k-no"
+      },
+      {
+        "title": "Inside",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipORyq0SkkLV83wO264lkMRUXJ2GJxQl7D_ogwC1=w224-h298-k-no"
+      },
+      {
+        "title": "By owner",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO7NMn94a2bku6Kqzd9L7FODXB20rNazhhBnImH=w526-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c0tZqCROrQ0Oy6k8srtcew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=264.02167&pitch=0&thumbfov=100"
+      }
+    ],
+    "reservations": null,
+    "order_online": [
+      {
+        "link": "https://www.youtube.com/channel/UCw3HPokdEvabtRVOadq_Rrw",
+        "source": "youtube.com"
+      }
+    ],
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "105126454158478715538",
+      "name": "Wisata Kreatif Jakarta (Jakarta Tours and Virtual Tours Specialist ) (Owner)",
+      "link": "https://www.google.com/maps/contrib/105126454158478715538"
+    },
+    "complete_address": {
+      "borough": "Menteng Dalam, Tebet",
+      "street": "Jalan Casablanca Office 88 Lantai 9 Unit A Gedung 88 Kota Casablanca, RT.4/RW.12",
+      "city": "South Jakarta City",
+      "postal_code": "12870",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": null,
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.2250124,
+      "lon": 106.8394134
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/place/Central+Park+Restaurant/data=!4m7!3m6!1s0x2e69f3f05d900e4f:0x47e83ff4b2d01406!8m2!3d-6.2254999!4d106.8314303!16s%2Fg%2F1hd_xcp4n!19sChIJTw6QXfDzaS4RBhTQsvQ_6Ec?authuser=0&hl=en&rclk=1",
+    "cid": "5181461691494306822",
+    "title": "Central Park Restaurant",
+    "categories": [
+      "Restaurant",
+      "Breakfast restaurant",
+      "Chinese restaurant",
+      "Indonesian restaurant",
+      "Western restaurant"
+    ],
+    "category": "Restaurant",
+    "address": "Manhattan Hotel 3rd Floor, JL Prof. Dr. Satrio, No. 1, Casablanca Kuningan, RT.7/RW.4, Kuningan, Karet Kuningan, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+    "open_hours": {
+      "Friday": "06:00–23:00",
+      "Monday": "06:00–22:00",
+      "Saturday": "06:00–23:00",
+      "Sunday": "06:00–23:00",
+      "Thursday": "06:00–22:00",
+      "Tuesday": "06:00–22:00",
+      "Wednesday": "06:00–22:00"
+    },
+    "popular_times": {
+      "Friday": {
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 3,
+        "9": 6,
+        "10": 3,
+        "11": 6,
+        "12": 12,
+        "13": 31,
+        "14": 21,
+        "15": 25,
+        "16": 15,
+        "17": 15,
+        "18": 21,
+        "19": 21,
+        "20": 28,
+        "21": 25,
+        "22": 12
+      },
+      "Monday": {
+        "5": 0,
+        "6": 9,
+        "7": 21,
+        "8": 62,
+        "9": 81,
+        "10": 100,
+        "11": 81,
+        "12": 37,
+        "13": 12,
+        "14": 0,
+        "15": 6,
+        "16": 18,
+        "17": 21,
+        "18": 18,
+        "19": 21,
+        "20": 37,
+        "21": 28,
+        "22": 0
+      },
+      "Saturday": {
+        "5": 0,
+        "6": 28,
+        "7": 50,
+        "8": 56,
+        "9": 40,
+        "10": 46,
+        "11": 25,
+        "12": 25,
+        "13": 6,
+        "14": 3,
+        "15": 0,
+        "16": 0,
+        "17": 9,
+        "18": 21,
+        "19": 37,
+        "20": 18,
+        "21": 12,
+        "22": 9
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 53,
+        "7": 28,
+        "8": 28,
+        "9": 15,
+        "10": 6,
+        "11": 0,
+        "12": 0,
+        "13": 3,
+        "14": 12,
+        "15": 15,
+        "16": 28,
+        "17": 12,
+        "18": 9,
+        "19": 6,
+        "20": 12,
+        "21": 9,
+        "22": 18
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 28,
+        "7": 15,
+        "8": 18,
+        "9": 12,
+        "10": 21,
+        "11": 18,
+        "12": 34,
+        "13": 21,
+        "14": 28,
+        "15": 9,
+        "16": 3,
+        "17": 6,
+        "18": 25,
+        "19": 56,
+        "20": 71,
+        "21": 46,
+        "22": 0
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 9,
+        "7": 12,
+        "8": 21,
+        "9": 12,
+        "10": 9,
+        "11": 12,
+        "12": 6,
+        "13": 3,
+        "14": 6,
+        "15": 25,
+        "16": 46,
+        "17": 53,
+        "18": 28,
+        "19": 15,
+        "20": 12,
+        "21": 6,
+        "22": 0
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 6,
+        "7": 15,
+        "8": 21,
+        "9": 9,
+        "10": 6,
+        "11": 0,
+        "12": 9,
+        "13": 21,
+        "14": 43,
+        "15": 28,
+        "16": 21,
+        "17": 15,
+        "18": 15,
+        "19": 21,
+        "20": 43,
+        "21": 25,
+        "22": 0
+      }
+    },
+    "web_site": null,
+    "phone": "(021) 30040888",
+    "plus_code": "QRFJ+RH Karet Kuningan, South Jakarta City, Jakarta",
+    "review_count": 147,
+    "review_rating": 4.4,
+    "reviews_per_rating": {
+      "1": 5,
+      "2": 2,
+      "3": 15,
+      "4": 29,
+      "5": 96
+    },
+    "status": "Open ⋅ Closes 11.00 pm",
+    "description": "Tempat makan buffet yg menyajikan menu Western, Indonesia traditional, chinese dan buka 24 jam.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTw6QXfDzaS4RBhTQsvQ_6Ec&q=Central+Park+Restaurant&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNjl-c4LgsIwY6sLdlKVUtsbE7POblFPWTumBQs=w408-h408-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f3f05d900e4f:0x47e83ff4b2d01406",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNjl-c4LgsIwY6sLdlKVUtsbE7POblFPWTumBQs=w298-h298-k-no"
+      },
+      {
+        "title": "Menu",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOsSm0tkeWdatRnlFz-hhPdX3Eq4qGu_xLslY1N=w224-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNrQWIwkhKQ4LgRm4doEE2OhpZTBr73QMlrYwG8=w224-h398-k-no"
+      },
+      {
+        "title": "Food & drink",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOPUTLWsQlmKCjEWs2Xo6ZZAkD5XN3_LB6T1E_-=w224-h298-k-no"
+      },
+      {
+        "title": "Vibe",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOW3o4nFC32eENzhk90MDrBPUyKjlC8XIrg5qKc=w397-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO8cQWXm0k74HFmbop5-e7Ururd71D_c6QxrHg3=w224-h298-k-no-pi-20-ya280-ro-0-fo100"
+      }
+    ],
+    "reservations": [
+      {
+        "link": "https://www.chope.co/jakarta-restaurants/restaurant/central-park-restaurant-kuningan-manhattan-hotel-jakarta",
+        "source": "chope.co"
+      }
+    ],
+    "order_online": [
+      {
+        "link": "https://www.chope.co/jakarta-restaurants/restaurant/central-park-restaurant-kuningan-manhattan-hotel-jakarta",
+        "source": "chope.co"
+      }
+    ],
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "Central Park Restaurant (Owner)",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "Kuningan, Karet Kuningan, Jakarta Selatan",
+      "street": "Manhattan Hotel 3rd Floor, JL Prof. Dr. Satrio, No. 1, Casablanca Kuningan, RT.7/RW.4",
+      "city": "South Jakarta City",
+      "postal_code": "12950",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Outdoor seating",
+            "enabled": true
+          },
+          {
+            "name": "No-contact delivery",
+            "enabled": true
+          },
+          {
+            "name": "Delivery",
+            "enabled": true
+          },
+          {
+            "name": "Takeaway",
+            "enabled": true
+          },
+          {
+            "name": "Dine-in",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible seating",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible toilet",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "offerings",
+        "name": "Offerings",
+        "options": [
+          {
+            "name": "Alcohol",
+            "enabled": true
+          },
+          {
+            "name": "Beer",
+            "enabled": true
+          },
+          {
+            "name": "Cocktails",
+            "enabled": true
+          },
+          {
+            "name": "Coffee",
+            "enabled": true
+          },
+          {
+            "name": "Halal food",
+            "enabled": true
+          },
+          {
+            "name": "Spirits",
+            "enabled": true
+          },
+          {
+            "name": "Wine",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "dining_options",
+        "name": "Dining options",
+        "options": [
+          {
+            "name": "Breakfast",
+            "enabled": true
+          },
+          {
+            "name": "Brunch",
+            "enabled": true
+          },
+          {
+            "name": "Lunch",
+            "enabled": true
+          },
+          {
+            "name": "Dinner",
+            "enabled": true
+          },
+          {
+            "name": "Dessert",
+            "enabled": true
+          },
+          {
+            "name": "Seating",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Bar on site",
+            "enabled": true
+          },
+          {
+            "name": "Toilets",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "atmosphere",
+        "name": "Atmosphere",
+        "options": [
+          {
+            "name": "Casual",
+            "enabled": true
+          },
+          {
+            "name": "Cosy",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "crowd",
+        "name": "Crowd",
+        "options": [
+          {
+            "name": "Groups",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "name": "Planning",
+        "options": [
+          {
+            "name": "Accepts reservations",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Credit cards",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          },
+          {
+            "name": "Kids' menu",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.2254999,
+      "lon": 106.8314303
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/place/Jakarta+Restaurant+%26+The+Courtyard/data=!4m7!3m6!1s0x2e69f1774d7d38ff:0x2ce17918884152a0!8m2!3d-6.2532037!4d106.805117!16s%2Fg%2F1hc1yk4dd!19sChIJ_zh9TXfxaS4RoFJBiBh54Sw?authuser=0&hl=en&rclk=1",
+    "cid": "3233999153700885152",
+    "title": "Jakarta Restaurant & The Courtyard",
+    "categories": [
+      "Restaurant",
+      "Asian restaurant",
+      "Breakfast restaurant",
+      "Western restaurant"
+    ],
+    "category": "Restaurant",
+    "address": "Jl. Brawijaya Raya No.26, RT.1/RW.2, Kebayoran Baru, South Jakarta City, Jakarta 12160",
+    "open_hours": {
+      "Friday": "07:00–22:00",
+      "Monday": "07:00–22:00",
+      "Saturday": "07:00–22:00",
+      "Sunday": "07:00–22:00",
+      "Thursday": "07:00–22:00",
+      "Tuesday": "07:00–22:00",
+      "Wednesday": "07:00–22:00"
+    },
+    "popular_times": {
+      "Friday": {
+        "6": 0,
+        "7": 17,
+        "8": 35,
+        "9": 31,
+        "10": 24,
+        "11": 20,
+        "12": 15,
+        "13": 24,
+        "14": 28,
+        "15": 33,
+        "16": 37,
+        "17": 51,
+        "18": 51,
+        "19": 66,
+        "20": 62,
+        "21": 44,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 8,
+        "8": 2,
+        "9": 2,
+        "10": 4,
+        "11": 2,
+        "12": 2,
+        "13": 0,
+        "14": 2,
+        "15": 8,
+        "16": 22,
+        "17": 28,
+        "18": 28,
+        "19": 17,
+        "20": 17,
+        "21": 22,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 28,
+        "8": 17,
+        "9": 13,
+        "10": 37,
+        "11": 53,
+        "12": 100,
+        "13": 82,
+        "14": 88,
+        "15": 46,
+        "16": 31,
+        "17": 13,
+        "18": 24,
+        "19": 22,
+        "20": 31,
+        "21": 13,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 11,
+        "8": 28,
+        "9": 26,
+        "10": 42,
+        "11": 51,
+        "12": 48,
+        "13": 48,
+        "14": 62,
+        "15": 71,
+        "16": 60,
+        "17": 33,
+        "18": 24,
+        "19": 24,
+        "20": 11,
+        "21": 4,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 40,
+        "8": 20,
+        "9": 22,
+        "10": 31,
+        "11": 62,
+        "12": 62,
+        "13": 75,
+        "14": 46,
+        "15": 33,
+        "16": 24,
+        "17": 22,
+        "18": 31,
+        "19": 62,
+        "20": 88,
+        "21": 88,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 17,
+        "8": 33,
+        "9": 35,
+        "10": 35,
+        "11": 28,
+        "12": 40,
+        "13": 28,
+        "14": 24,
+        "15": 28,
+        "16": 51,
+        "17": 48,
+        "18": 46,
+        "19": 42,
+        "20": 37,
+        "21": 20,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 15,
+        "8": 13,
+        "9": 20,
+        "10": 20,
+        "11": 26,
+        "12": 40,
+        "13": 55,
+        "14": 68,
+        "15": 80,
+        "16": 77,
+        "17": 68,
+        "18": 71,
+        "19": 62,
+        "20": 55,
+        "21": 31,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "web_site": "http://www.the-dharmawangsa.com/",
+    "phone": "0811-1025-999",
+    "plus_code": "PRW4+P2 Pulo, South Jakarta City, Jakarta",
+    "review_count": 1213,
+    "review_rating": 4.8,
+    "reviews_per_rating": {
+      "1": 6,
+      "2": 10,
+      "3": 37,
+      "4": 126,
+      "5": 1034
+    },
+    "status": "Open ⋅ Closes 10.00 pm",
+    "description": "Indonesian & global fare in a chic, airy hotel eatery with Art Deco accents & a leafy courtyard.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_zh9TXfxaS4RoFJBiBh54Sw&q=Jakarta+Restaurant+%26+The+Courtyard&authuser=0&hl=en&gl=ID",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDLNk-xiFqcjTosgwSWVgKo_4fxnq68uFqIv3h=w440-h240-k-no",
+    "timezone": "Asia/Jakarta",
+    "price_range": null,
+    "data_id": "0x2e69f1774d7d38ff:0x2ce17918884152a0",
+    "images": [
+      {
+        "title": "All",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNDLNk-xiFqcjTosgwSWVgKo_4fxnq68uFqIv3h=w546-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNWFPZlG5EXb37akP9SWeyF1yqPexKWNeeL3PCD=w397-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOcx0NcBwOiQ8yZE4GWUd57dfaD0DtDDlrWqsc=w224-h398-k-no"
+      },
+      {
+        "title": "Menu",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNlK-Tvy7I0_HevsqJ0HLnT8-0SNyC8Q1NF3jcC=w224-h298-k-no"
+      },
+      {
+        "title": "Food & drink",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOHwsi7l3OOA9WyDKn1NFZSyaCQNVQ1vCH2UXez=w224-h298-k-no"
+      },
+      {
+        "title": "Vibe",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMPqEoZqtExeHZeRdaUH5GLazoxvzpPw7CxjMzH=w224-h298-k-no"
+      },
+      {
+        "title": "By owner",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOPKkB4XruzhGm9-rSmHKCp5HiWO8A6kEBqGhFT=w447-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pGy_0Dv22EXNkqd6bf8t8w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=298.45395&pitch=0&thumbfov=100"
+      }
+    ],
+    "reservations": [
+      {
+        "link": "https://cho.pe/c72lv0agg",
+        "source": "cho.pe"
+      }
+    ],
+    "order_online": [
+      {
+        "link": "https://cho.pe/c72lv0agg",
+        "source": "cho.pe"
+      }
+    ],
+    "menu": {
+      "link": "https://linktr.ee/tdwmenu",
+      "source": "linktr.ee"
+    },
+    "owner": {
+      "id": "102493570351170336866",
+      "name": "Jakarta Restaurant & The Courtyard (Owner)",
+      "link": "https://www.google.com/maps/contrib/102493570351170336866"
+    },
+    "complete_address": {
+      "borough": "Kebayoran Baru",
+      "street": "Jl. Brawijaya Raya No.26, RT.1/RW.2",
+      "city": "South Jakarta City",
+      "postal_code": "12160",
+      "state": "Jakarta",
+      "country": "ID"
+    },
+    "about": [
+      {
+        "id": "service_options",
+        "name": "Service options",
+        "options": [
+          {
+            "name": "Outdoor seating",
+            "enabled": true
+          },
+          {
+            "name": "No-contact delivery",
+            "enabled": true
+          },
+          {
+            "name": "Delivery",
+            "enabled": true
+          },
+          {
+            "name": "Takeaway",
+            "enabled": true
+          },
+          {
+            "name": "Dine-in",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "highlights",
+        "name": "Highlights",
+        "options": [
+          {
+            "name": "Great cocktails",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible car park",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible seating",
+            "enabled": true
+          },
+          {
+            "name": "Wheelchair-accessible toilet",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "offerings",
+        "name": "Offerings",
+        "options": [
+          {
+            "name": "Alcohol",
+            "enabled": true
+          },
+          {
+            "name": "Beer",
+            "enabled": true
+          },
+          {
+            "name": "Cocktails",
+            "enabled": true
+          },
+          {
+            "name": "Coffee",
+            "enabled": true
+          },
+          {
+            "name": "Halal food",
+            "enabled": true
+          },
+          {
+            "name": "Spirits",
+            "enabled": true
+          },
+          {
+            "name": "Wine",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "dining_options",
+        "name": "Dining options",
+        "options": [
+          {
+            "name": "Breakfast",
+            "enabled": true
+          },
+          {
+            "name": "Brunch",
+            "enabled": true
+          },
+          {
+            "name": "Lunch",
+            "enabled": true
+          },
+          {
+            "name": "Dinner",
+            "enabled": true
+          },
+          {
+            "name": "Catering",
+            "enabled": true
+          },
+          {
+            "name": "Dessert",
+            "enabled": true
+          },
+          {
+            "name": "Seating",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "name": "Amenities",
+        "options": [
+          {
+            "name": "Bar on site",
+            "enabled": true
+          },
+          {
+            "name": "Toilets",
+            "enabled": true
+          },
+          {
+            "name": "Wi-Fi",
+            "enabled": true
+          },
+          {
+            "name": "Wi-Fi",
+            "enabled": false
+          }
+        ]
+      },
+      {
+        "id": "atmosphere",
+        "name": "Atmosphere",
+        "options": [
+          {
+            "name": "Casual",
+            "enabled": true
+          },
+          {
+            "name": "Cosy",
+            "enabled": true
+          },
+          {
+            "name": "Upmarket",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "crowd",
+        "name": "Crowd",
+        "options": [
+          {
+            "name": "Groups",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "name": "Planning",
+        "options": [
+          {
+            "name": "Accepts reservations",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "name": "Payments",
+        "options": [
+          {
+            "name": "Credit cards",
+            "enabled": true
+          },
+          {
+            "name": "Debit cards",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "name": "Children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "enabled": true
+          },
+          {
+            "name": "Kids' menu",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "options": [
+          {
+            "name": "Parking",
+            "enabled": false
+          }
+        ]
+      }
+    ],
+    "user_reviews": null,
+    "emails": null,
+    "location": {
+      "lat": -6.253203699999999,
+      "lon": 106.805117
+    }
+  }
+]
